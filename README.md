@@ -1,7 +1,7 @@
 Hola! 
 Mi nombre es Felipe Mendoza 😃
 
-Soy desarrollador frontEnd,  
+Soy Ingeniero en Informática,  
 
 Lenguajes y Tecnologías
 Mis conocimientos son:
