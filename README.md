@@ -1,16 +1,25 @@
-Hola! 
-Mi nombre es Felipe Mendoza 😃
+Hola, soy Felipe Mendoza 👋
 
-Soy Ingeniero en Informática,  
+Ingeniero en Informática enfocado en desarrollo backend y tecnologías web.
 
-Lenguajes y Tecnologías
-Mis conocimientos son:
+Actualmente aprendiendo y desarrollando proyectos con Java, APIs REST, Spring Boot y tecnologías frontend como React.
 
-⚡HTML5
-⚡CSS3
-⚡SASS
-⚡Bootstrap
-⚡Git
-⚡JavaScript
-⚡React
-⚡Firebase
+Interesado en integración de sistemas, automatización y desarrollo de soluciones para e-commerce y gestión de inventario.
+
+Tecnologías
+
+⚡ Java
+⚡ Spring Boot
+⚡ SQL
+⚡ Git & GitHub
+⚡ JavaScript
+⚡ React
+⚡ HTML5
+⚡ CSS3
+⚡ Bootstrap
+⚡ Postman
+⚡ APIs REST
+
+Actualmente trabajando en
+
+🚀 Integración entre Bsale y WooCommerce utilizando APIs REST y Java.
